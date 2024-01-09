@@ -1,0 +1,12 @@
+.home-title{
+    text-align: center;
+}
+
+.home-card {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 1rem;
+}

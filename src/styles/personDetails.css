@@ -1,0 +1,37 @@
+.card-details {
+    border: 1px solid black;
+    width: 92vw;
+    margin: auto;
+    margin-top: 4rem;
+    padding: 1rem;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.right-header {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.right-header-ele {
+    margin-left: 1rem;
+}
+
+.dropdown-item-ele{
+height: 10rem;
+    overflow-y: auto;
+}
+
+.post-div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 1rem;
+    width: 30%;
+}
